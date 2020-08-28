@@ -1,0 +1,26 @@
+h2,h3,h4{
+    font-family:'Acme', sans-serif;
+    text-align: center;
+}
+
+.jumbotron{
+    margin-top:60px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    background:pink;
+}
+
+i{
+    font-size:2em; /*relative to the parent element that is h3*/
+    padding-right: 10px;
+
+}
+
+#A{
+    display:flex;
+    flex-wrap:wrap;
+}
+h4{
+    font-size: 2em;
+    margin:5px;
+}
